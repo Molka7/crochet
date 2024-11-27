@@ -116,7 +116,8 @@ section {
 }
 
 .item button:hover {
-    background-color: #a2d2ff; 
+    background-color: #a2d2ff;
+    } 
 
 footer {
     background-color: #cdb4db; 
